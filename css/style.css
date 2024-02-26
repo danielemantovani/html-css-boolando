@@ -1,0 +1,21 @@
+/* reset */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* utilities */
+
+.w-70{
+    width: 70%;;
+}
+
+
+/* main */
+
+.container{
+    background-color: aquamarine;
+    height: 300px;
+}
